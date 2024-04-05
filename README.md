@@ -3,31 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> GitHub Summary: skanda890</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        .repository {
-            background-color: #fff;
-            border-radius: 8px;
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-        .repository h2 {
-            font-size: 18px;
-            color: #555;
-        }
-        .repository p {
-            font-size: 14px;
-            color: #777;
-        }
-    </style>
 </head>
 <body>
     <h1>GitHub Summary: skanda890</h1>
