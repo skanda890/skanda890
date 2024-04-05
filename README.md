@@ -1,7 +1,6 @@
 # About My GitHub Account
 
 - **Username**: skanda890 (also known as SkandaBT)
-- **Location**: Sanjaynagar, Bangalore, Karnataka, India (UTC +05:30)
 
 ## The Repositories I Have Forked or Created
 
