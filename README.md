@@ -1,1 +1,1 @@
-This repository is for https://github.com/skanda890
+This repository is a summary of https://github.com/skanda890
