@@ -64,7 +64,6 @@
             </ul>
         </li>
     </ul>
-
             </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
