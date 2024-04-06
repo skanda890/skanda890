@@ -3,30 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Game: skanda890 Edition</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            font-size: 16px;
-            line-height: 1.5;
-            color: #555;
-        }
-        .repo {
-            display: inline-block;
-            margin-right: 10px;
-            font-weight: bold;
-        }
-    </style>
-</head>
+    </head>
 <body>
-    <h1>GitHub Profile Game: skanda890 Edition</h1>
+    <h1>Skanda890's Profile Represented in an Adventure</h1>
     <p>
         Welcome to the skanda890 GitHub Adventure! 🚀 Help skanda navigate through their repositories:
     </p>
