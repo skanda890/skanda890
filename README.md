@@ -1,8 +1,8 @@
 # About My GitHub Account
 
 - **Username**: skanda890 (also known as SkandaBT)
-- **Hobbies**: Playing Football, Rock collecting and Coding
 - **Location**: Sanjaynagar, Bangalore, Karnataka, India (UTC +05:30)
+- **Hobbies**: Playing Football, Rock collecting and Coding
 
 ## Some of The Repositories I Have Forked or Created
 
