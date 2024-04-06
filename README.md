@@ -39,7 +39,7 @@
             <p>Identified as "My Repository," it's likely a central place for personal projects, experiments, or a collection of useful code snippets and resources.</p>
          <h1>Hackbook</h1>
     <p>
-        The <strong>Hackbook</strong> repository, maintained by <strong>skanda890</strong>, appears to be a project with a focus on hosting and managing packages. While the exact details are not explicitly provided in the repository's description, it involves handling dependencies and possibly security aspects.
+        The <strong>Hackbook</strong> repository, forked and maintained by <strong>skanda890</strong>, appears to be a project with a focus on hosting and managing packages. While the exact details are not explicitly provided in the repository's description, it involves handling dependencies and possibly security aspects.
     </p>
     <p>
         Here are some key points about the <strong>Hackbook</strong> repository:
