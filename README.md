@@ -36,11 +36,11 @@
         <!-- Additional repositories -->
         <li>
             <h3>SkandaBT</h3>
-            <p>Identified as "My Repository," it's likely a central place for personal projects, experiments, or a collection of useful code snippets and resources[^1^][1].</p>
+            <p>Identified as "My Repository," it's likely a central place for personal projects, experiments, or a collection of useful code snippets and resources.</p>
         </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
     </ul>
-    <p>skanda890 (SkandaBT) has a total of 12 repositories available on GitHub, showcasing a diverse range of projects and interests in software development[^1^][1].</p>
+    <p>skanda890 (SkandaBT) has a total of 12 repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
 </body>
 </html>
