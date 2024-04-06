@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
      <body>
-    <h1>Detailed GitHub Summary: skanda890</h1>
+    <h1>About My GitHub Account</h1>
     <p>This summary provides an overview of the projects and contributions made by the GitHub user <em>skanda890</em>. The account showcases a variety of projects, indicating a focus on software development and user interface design, particularly for Windows systems.</p>
     <h2>Highlighted Projects</h2>
     <ul>
