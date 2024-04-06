@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Summary: skanda890</title>
 </head>
 <body>
     <h1>GitHub Summary: skanda890</h1>
