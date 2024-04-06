@@ -64,13 +64,12 @@
             </ul>
         </li>
     </ul>
-    <p>
-        For further insights, you can explore the <a href="https://github.com/skanda890/Hackbook">Hackbook repository</a> directly. Keep in mind that some details may be available within the repository's files and documentation.
-    </p>  
-        </li>
+
+            </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
     </ul>
+    <p>Keep skanda890's adventure going by exploring their <a href="https://github.com/skanda890">GitHub profile</a>. Who knows what other repositories await?</p>
     <p>skanda890 (SkandaBT) has a total of 12 repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
 </body>
 </html>
