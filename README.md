@@ -1264,4 +1264,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+11. **Windows Dev Docs**
+
+ <h1>Windows Development Documentation</h1>
+        <p>Learn how to design, develop, and deploy apps and solutions for Windows PCs and other devices.</p>
+        <p>Explore the <a href="https://learn.microsoft.com/en-us/windows/apps/">full documentation</a> for detailed information.</p>
+
 Feel free to explore my work on GitHub! 🚀
