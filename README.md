@@ -41,6 +41,6 @@
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
     </ul>
-    <p>skanda890 has a total of 8 repositories available on GitHub, showcasing a diverse range of projects and interests in software development[^1^][1].</p>
+    <p>skanda890 (SkandaBT) has a total of 12 repositories available on GitHub, showcasing a diverse range of projects and interests in software development[^1^][1].</p>
 </body>
 </html>
