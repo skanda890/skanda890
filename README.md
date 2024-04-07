@@ -10,23 +10,23 @@
     <h2>Highlighted Projects</h2>
     <ul>
         <li>
-            <h3>UnigetUI</h3>
+            <h3><a href="https://github.com/skanda890/UnigetUI">UnigetUI</a></h3>
             <p>A project aimed at creating an intuitive GUI for common CLI package managers on Windows 10 and 11. It supports package managers like Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool, and PowerShell Gallery. The goal is to make package management more accessible to users who prefer graphical interfaces over command-line interactions.</p>
         </li>
         <li>
-            <h3>CodePark</h3>
-            <p>Described as a personal repository, CodePark may serve as a sandbox for experimenting with new ideas or storing snippets of code that could be useful for future projects.</p>
+            <h3><a href="https://github.com/skanda890/CodePark">CodePark</a></h3>
+            <p>Described as a personal repository, CodePark contains machine languages respective to the branches.</p>
         </li>
         <li>
-            <h3>Potify-Music-Player</h3>
+            <h3><a href="https://github.com/skanda890/Potify-Music-Player">Potify-Music-Player</a></h3>
             <p>This project involves HTML and is presumably related to a music player application. It might offer features such as playlist management, song playback, and user interaction through a web interface.</p>
         </li>
         <li>
-            <h3>Dictionary-App</h3>
+            <h3><a href="https://github.com/skanda890/Dictionary-App">Dictionary-App</h3>
             <p>A JavaScript-based project, likely a web application for dictionary or translation services. This app could help users find definitions, synonyms, and translations of words in various languages.</p>
         </li>
         <li>
-            <h3>Dev-Home</h3>
+            <h3><a href="https://github.com/skanda890/Dev-Home">Dev-Home</a></h3>
             <p>A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the development environment for the user.</p>
         </li>
         <li>
@@ -35,14 +35,13 @@
         </li>
         <!-- Additional repositories -->
         <li>
-            <h3>SkandaBT</h3>
+            <h3><a href="https://github.com/skanda890/SkandaBT">SkandaBT</a></h3>
             <p>Identified as "My Repository," it's likely a central place for personal projects, experiments, or a collection of useful code snippets and resources.</p>
          </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
     </ul>
-    <p>Keep skanda890's adventure going by exploring their <a href="https://github.com/skanda890">GitHub profile</a>. Who knows what other repositories await?</p>
-    <p>skanda890 (SkandaBT) has a total of 12 repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
+    <p><a href="github.com/skanda890">skanda890 (SkandaBT)</a> has a total of 12 repositories available on <a href="https://github.com">GitHub</a>, showcasing a diverse range of projects and interests in software development.</p>
     <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README file</a>, go check that out now.</p>
 </body>
 </html>
