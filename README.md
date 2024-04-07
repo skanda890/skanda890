@@ -37,39 +37,12 @@
         <li>
             <h3>SkandaBT</h3>
             <p>Identified as "My Repository," it's likely a central place for personal projects, experiments, or a collection of useful code snippets and resources.</p>
-         <h1>Hackbook</h1>
-    <p>
-        The <strong>Hackbook</strong> repository, forked and maintained by <strong>skanda890</strong>, appears to be a project with a focus on hosting and managing packages. While the exact details are not explicitly provided in the repository's description, it involves handling dependencies and possibly security aspects.
-    </p>
-    <p>
-        Here are some key points about the <strong>Hackbook</strong> repository:
-    </p>
-    <ul>
-        <li><strong>Repository Overview:</strong>
-            <ul>
-                <li><strong>Name:</strong> Hackbook</li>
-                <li><strong>Owner:</strong> skanda890</li>
-                <li><strong>Description:</strong> The repository's purpose is not explicitly stated, but it likely involves software development or related tasks.</li>
-            </ul>
-        </li>
-        <li><strong>Security:</strong>
-            <ul>
-                <li>The repository includes a <strong>security overview</strong> section, which suggests that security practices are considered.</li>
-                <li>You can find more information about security measures in the repository's <a href="https://github.com/skanda890/Hackbook/security">security section</a>.</li>
-            </ul>
-        </li>
-        <li><strong>Build Tool and Configuration:</strong>
-            <ul>
-                <li>The repository mentions a <strong>build tool and configuration</strong>. However, specific details about the tool and configuration choices are not provided in the summary.</li>
-            </ul>
-        </li>
-    </ul>
-            </li>
+         </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
     </ul>
     <p>Keep skanda890's adventure going by exploring their <a href="https://github.com/skanda890">GitHub profile</a>. Who knows what other repositories await?</p>
     <p>skanda890 (SkandaBT) has a total of 12 repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
-    <p>He has another README file(README-adventure.md), also go check that out on the repository skanda890.</p>
-     </body>
+    <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README file</a>a>, also go check that out on the repository skanda890.</p>
+</body>
 </html>
