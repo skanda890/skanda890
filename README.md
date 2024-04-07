@@ -70,6 +70,6 @@
     </ul>
     <p>Keep skanda890's adventure going by exploring their <a href="https://github.com/skanda890">GitHub profile</a>. Who knows what other repositories await?</p>
     <p>skanda890 (SkandaBT) has a total of 12 repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
-    <p>He has another README (GitHub Adventure) go check that out on the repository skanda890.</p>
+    <p>He has 2 other README(s) (GitHub Adventure) go check that out on the repository skanda890.</p>
      </body>
 </html>
