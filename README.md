@@ -18,7 +18,7 @@
             <p>Described as a personal repository, CodePark contains machine languages respective to the branches.</p>
         </li>
         <li>
-            <h3><a href="https://github.com/skanda890/Potify-Music-Player">Potify-Music-Player</a></h3>
+            <h3><a href="https://github.com/skanda890/Music-Player">Music-Player</a></h3>
             <p>This project involves HTML and is presumably related to a music player application. It might offer features such as playlist management, song playback, and user interaction through a web interface.</p>
         </li>
         <li>
