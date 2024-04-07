@@ -25,7 +25,9 @@
     <p>
         Skanda is exploring language and words. Can you find the hidden meanings?
     </p>
-    <div class="repo">Adventure-Academy</div>
+    <div class="repo">CodePark</div>
+        
+<div class="repo">Adventure-Academy</div>
     <p>
         An educational platform for young learners. Skanda needs your help with interactive lessons!
     </p>
