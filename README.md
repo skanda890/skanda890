@@ -7,7 +7,7 @@
      <body>
     <h1>About My GitHub Profile</h1>
     <p>This summary provides an overview of the projects and contributions made by the GitHub user <em>skanda890</em>. The account showcases a variety of projects, indicating a focus on software development and user interface design, particularly for Windows systems.</p>
-    <h2>Highlighted Projects</h2>
+    <h2>Highlighted Repositories</h2>
     <ul>
         <li>
             <h3><a href="https://github.com/skanda890/UnigetUI">UnigetUI</a></h3>
