@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
 <body>
-    <h1>Skanda890's Profile Represented in an Adventure</h1>
+    <h1><a href=https://github.com/skanda890">Skanda890's Profile</a>Represented in an Adventure</h1>
     <p>
         Welcome to the skanda890 GitHub Adventure! 🚀 Help skanda navigate through their repositories:
     </p>
@@ -26,13 +26,14 @@
         Skanda is exploring language and words. Can you find the hidden meanings?
     </p>
     <div class="repo">CodePark</div>
-        
+    <p>This repository serves as a test playground. It’s a place where experiments, code snippets, and ideas can be explored.</p>    
+
 <div class="repo">Adventure-Academy</div>
     <p>
         An educational platform for young learners. Skanda needs your help with interactive lessons!
     </p>
     <p>
-        Keep skanda890's adventure going by exploring their <a href="https://github.com/skanda890">GitHub profile</a>. Who knows what other repositories await?
+    Keep skanda890's adventure going by exploring their <a href="https://github.com/skanda890">GitHub profile</a>. Who knows what other repositories await?
     </p>
 </body>
 </html>
