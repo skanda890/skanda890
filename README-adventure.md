@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
 <body>
-    <h1><a href="https://github.com/skanda890">Skanda890's Profile</a> Represented in an Adventure</h1>
+    <h1><a href="https://github.com/skanda890">Skanda890's GitHub Profile</a> Represented in an Adventure</h1>
     <p>
         Welcome to the skanda890 GitHub Adventure! 🚀 Help skanda navigate through their repositories:
     </p>
