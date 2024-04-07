@@ -35,7 +35,7 @@
         An educational platform for young learners. Skanda needs your help with interactive lessons!
     </p>
     <p>
-    Keep <a href="https://github.com/skanda890"> skanda890's</a> adventure going by exploring their <a href="https://github.com">GitHub </a> profile. Who knows what other repositories await?
+    Keep <a href="https://github.com/skanda890"> skanda890's</a> adventure going by exploring their <a href="https://github.com">GitHub</a> profile. Who knows what other repositories await?
     </p>
 </body>
 </html>
