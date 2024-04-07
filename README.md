@@ -30,7 +30,7 @@
             <p>A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the development environment for the user.</p>
         </li>
         <li>
-            <h3>Windows-dev-docs</h3>
+            <h3><a href="https://github.com/skanda890/windows-dev-docs">Windows-dev-docs</a></h3>
             <p>Another forked MicrosoftDocs repository related to Windows app development. This repository might contain documentation, examples, and best practices for developing applications on the Windows platform.</p>
         </li>
         <!-- Additional repositories -->
