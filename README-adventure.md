@@ -9,7 +9,7 @@
     <p>
         Welcome to the skanda890 GitHub Adventure! 🚀 Help skanda navigate through their repositories:
     </p>
-    <div class="repo">SkandaBT</div>
+    <div class="repo">skanda890</div>
     <p>
         A personal repository where skanda890 manages their code. Watch out for bugs!
     </p>
