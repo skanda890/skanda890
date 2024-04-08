@@ -7,7 +7,7 @@
 <body>
     <h1><a href="https://github.com/skanda890">Skanda890's <a href="https://github.com">GitHub</a> Profile</a> Represented in an Adventure</h1>
     <p>
-        Welcome to the skanda890 GitHub Adventure! 🚀 Help skanda navigate through their repositories:
+        Welcome to the skanda890 GitHub Adventure! 🚀 Help Skanda navigate through their repositories:
     </p>
     <div class="repo"><a href="https://github.com/skanda890/skanda890">skanda890</a></div>
     <p>
