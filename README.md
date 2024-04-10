@@ -39,7 +39,6 @@
          </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
-    </ul>
     <li>
     <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
     <p>
