@@ -42,7 +42,7 @@
     <li>
     <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
     <p>
-        He appears to have a focus on software development and user interface design, particularly for Windows systems. One of the repositories under this account is Hackbook. However, the specific details about the Hackbook repository are not available in the search results. You might find more detailed information directly on the <a href="https://github.com/skanda890">GitHub page</a> of skanda890.
+    He focuses on software development and UI design for Windows. Details about the `Hackbook` repository are not available. More information can be found on the <a href="https://github.com/skanda890">GitHub page</a> of skanda890.
     </p>
     </li>
     <p><a href="github.com/skanda890">skanda890 (SkandaBT)</a> has a total of 12 repositories available on <a href="https://github.com">GitHub</a>, showcasing a diverse range of projects and interests in software development.</p>
