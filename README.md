@@ -46,7 +46,6 @@
     </p>
     </li>
     
-                
 <p><a href="github.com/skanda890">skanda890 (SkandaBT)</a> has a total of 12 repositories available on <a href="https://github.com">GitHub</a>, showcasing a diverse range of projects and interests in software development.</p>
     <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README file</a>, go check that out now.</p></p>
     </body>
