@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,7 +43,7 @@
     <li>
     <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
     <p>
-    He focuses on software development and UI design for Windows.
+    He focuses on software development and UI design for Windows. Details about the `Hackbook` repository are not available. More information can be found on the <a href="https://github.com/skanda890">GitHub page</a> of skanda890.
     </p>
     </li>
     
