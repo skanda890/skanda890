@@ -42,11 +42,11 @@
     <li>
     <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
     <p>
-    He focuses on software development and UI design for Windows. Details about the `Hackbook` repository are not available. More information can be found on the GitHub page of <a href="https://github.com/skanda890"> skanda890</p>a>.
+    He focuses on software development and UI design for Windows. Details about the 'Hackbook' repository are not available. More information can be found on the GitHub page of <a href="https://github.com/skanda890"> skanda890<a>.
     </p>
     </li>
     
 <p><a href="github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
-    <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p></p>
-    </body>
+<p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p></p>
+</body>
 </html>
