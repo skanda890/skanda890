@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,11 +42,11 @@
     <li>
     <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
     <p>
-    He focuses on software development and UI design for Windows. Details about the `Hackbook` repository are not available. More information can be found on the <a href="https://github.com/skanda890">GitHub page</a> of skanda890.
+    He focuses on software development and UI design for Windows. Details about the `Hackbook` repository are not available. More information can be found on the GitHub page of <a href="https://github.com/skanda890"> skanda890</p>a>.
     </p>
     </li>
     
-<p><a href="github.com/skanda890">skanda890 (SkandaBT)</a> has a total of 12 repositories available on <a href="https://github.com">GitHub</a>, showcasing a diverse range of projects and interests in software development.</p>
-    <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README file</a>, go check that out now.</p></p>
+<p><a href="github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
+    <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p></p>
     </body>
 </html>
