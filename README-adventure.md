@@ -30,7 +30,7 @@
         This repository serves as a test playground. It’s a place where experiments, code snippets, and ideas can be explored.
     </p>    
     <p>
-    Keep <a href="https://github.com/skanda890"> skanda890's</a> adventure going by exploring their <a href="https://github.com">GitHub</a> profile or seeing their other <a href="https://github.com/skanda890/skanda890/blob/HTML/README.md"> README file</a>. Who knows what other repositories await?
+    Keep <a href="https://github.com/skanda890"> skanda890's</a> adventure going by exploring their GitHub profile or seeing their other <a href="https://github.com/skanda890/skanda890/blob/HTML/README.md"> README file</a>. Who knows what other repositories await?
     </p>
 </body>
 </html>
