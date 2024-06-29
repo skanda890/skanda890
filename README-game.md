@@ -28,18 +28,15 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
-
 .metric {
   margin-bottom: 15px;
 }
-
 .metric-label {
   display: block;
   font-size: 1.2em;
   color: #333;
   margin-bottom: 5px;
 }
-
 .metric-value {
   font-size: 2em;
   color: #4CAF50;
@@ -93,7 +90,7 @@ function updateGameState(contributions) {
   // Implement game logic to update the state based on contributions
 }
 
-// Fetch contributions and update the game state
+  // Fetch contributions and update the game state
 getContributions(token, username).then(data => {
   const contributions = data.data.user.contributionsCollection.contributionCalendar.totalContributions;
   updateGameState(contributions);
