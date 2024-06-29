@@ -44,16 +44,12 @@ body {
 </style>
 </head>
 <body>
-
 <div id="game-container">
   <!-- Game elements go here -->
 </div>
-
 <script>
-// Replace 'yourPersonalAccessToken' with your actual GitHub Personal Access Token
 const token = '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';
 const username = 'skanda890';
-
 async function getContributions(token, username) {
   const headers = {
     'Authorization': `bearer ${token}`,
@@ -84,13 +80,8 @@ async function getContributions(token, username) {
   const data = await response.json();
   return data;
 }
-
-// Function to update the game state with new contribution data
-function updateGameState(contributions) {
-  // Implement game logic to update the state based on contributions
 }
-
-  // Fetch contributions and update the game state
+// Fetch contributions and update the game state
 getContributions(token, username).then(data => {
   const contributions = data.data.user.contributionsCollection.contributionCalendar.totalContributions;
   updateGameState(contributions);
