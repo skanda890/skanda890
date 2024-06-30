@@ -75,7 +75,7 @@ function getPRCount() {
   }
   var query = `
     {
-      search(query: "is:pr author:skanda890 is:merged", type: ISSUE) {
+      search(query: "is:pr author:skanda890", type: ISSUE) {
         issueCount
       }
     }
@@ -85,6 +85,5 @@ function getPRCount() {
   document.getElementById('prCount').textContent = 'Query: ' + query;
 }
 </script>
-
 </body>
 </html>
