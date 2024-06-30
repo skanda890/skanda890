@@ -4,68 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>GitHub PR Count</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    background-color: #f4f4f4;
-  }
-  .container {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    max-width: 600px;
-    margin: 40px auto;
-    text-align: center;
-  }
-  input[type="text"] {
-    padding: 10px;
-    margin-top: 10px;
-    width: calc(100% - 22px);
-    border: 1px solid #ddd;
-    border-radius: 4px;
-  }
-  button {
-    padding: 10px 20px;
-    margin-top: 10px;
-    background-color: #5cb85c;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  button:hover {
-    background-color: #4cae4c;
-  }
-  .result {
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #e7f4e4;
-    border-left: 5px solid #5cb85c;
-  }
-  .warning {
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #f2dede;
-    border-left: 5px solid #d9534f;
-    color: #a94442;
-  }
-</style>
-</head>
-<body>
-
-<div class="container">
-  <h1>GitHub Merged PR Count</h1>
-  <p>Enter a GitHub username to get the count of merged pull requests:</p>
-  <input type="text" id="username" placeholder="GitHub Username">
-  <button onclick="getPRCount()">Get PR Count</button>
-  <div id="prCount" class="result"></div>
-  <div class="warning">
-    <strong>Security Notice:</strong> Do not expose your Personal Access Token in client-side code. Always keep your tokens secure and use server-side logic or a secure environment to handle authentication.
-  </div>
+<h1>GitHub Merged PR Count</h1>
+<p>Enter a GitHub username to get the count of merged pull requests:</p>
+<input type="text" id="username" placeholder="GitHub Username">
+<button onclick="getPRCount()">Get PR Count</button>
+<div id="prCount" class="result"></div>
 </div>
-
 <script>
 function getPRCount() {
   var username = document.getElementById('skanda890').value;
@@ -80,8 +24,6 @@ function getPRCount() {
       }
     }
   `;
-  // You would need to implement the API call here
-  // For now, we'll just display the query
   document.getElementById('prCount').textContent = 'Query: ' + query;
 }
 </script>
