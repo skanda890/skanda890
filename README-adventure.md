@@ -17,20 +17,12 @@
     <p>
         Skanda is on a mission to create an intuitive GUI for common CLI package managers. Can you help?
     </p>
-    <div class="repo"><a href="https://github.com/skanda890/Music-Player">Music-Player</a></div>
-    <p>
-        Skanda's latest project involves music. Maybe they're building the ultimate playlist app!
-    </p>
-    <div class="repo"><a href="https://github.com/skanda890/Dictionary-App"></a></div>
-    <p>
-        Skanda is exploring language and words. Can you find the hidden meanings?
-    </p>
     <div class="repo"><a href="https://github.com/skanda890/CodePark">CodePark</a></div>
     <p>
         This repository serves as a test playground. It’s a place where experiments, code snippets, and ideas can be explored.
     </p>    
     <p>
-    Keep <a href="https://github.com/skanda890"> skanda890's</a> adventure going by exploring their GitHub profile. They have another <a href="https://github.com/skanda890/skanda890/blob/main/README.md"> README file</a>, go check that too.
+    Keep <a href="https://github.com/skanda890">skanda890's</a> adventure going by exploring their GitHub profile. They have another <a href="https://github.com/skanda890/skanda890/blob/main/README-created.md"> README file</a>, go check that too.
     </p>
 </body>
 </html>
