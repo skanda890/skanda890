@@ -1,0 +1,5 @@
+{
+  search(query: "is:pr author:skanda890 is:merged", type: ISSUE) {
+    issueCount
+  }
+}
