@@ -13,7 +13,7 @@
     <p>
         A personal repository where skanda890 manages their code. Watch out for bugs!
     </p>
-    <div class="repo"><a href="https://github.com/skanda890/UnigetUI">UnigetUI</a></div>
+    <div class="repo"><a href="https://github.com/skanda890/UniGetUI">UniGetUI</a></div>
     <p>
         Skanda is on a mission to create an intuitive GUI for common CLI package managers. Can you help?
     </p>
