@@ -10,7 +10,7 @@
     <h2>Highlighted Repositories</h2>
     <ul>
         <li>
-            <h3><a href="https://github.com/skanda890/UnigetUI">UnigetUI</a></h3>
+            <h3><a href="https://github.com/skanda890/UniGetUI">UniGetUI</a></h3>
             <p>A project aimed at creating an intuitive GUI for common CLI package managers on Windows 10 and 11. It supports package managers like Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool, and PowerShell Gallery. The goal is to make package management more accessible to users who prefer graphical interfaces over command-line interactions.</p>
         </li>
         <li>
