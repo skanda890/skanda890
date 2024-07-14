@@ -23,7 +23,7 @@
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/skanda890">skanda890</a></h3>
-            <p>Identified as "My Repository," it's likely a central place for personal projects, experiments, or a collection of useful code snippets and resources.</p>
+            <p>This repository contains code for Skanda890's Github profile.</p>
          </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
