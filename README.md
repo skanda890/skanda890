@@ -4,41 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About My GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            background: #fff;
-            margin: 10px 0;
-            padding: 10px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
 <body>
     <h1>About My GitHub Profile</h1>
     <p>This summary provides an overview of the projects and contributions made by the GitHub user <em>skanda890</em>. The account showcases a variety of projects, indicating a focus on software development and user interface design, particularly for Windows systems.</p>
-    <iframe src="https://github.com/skanda890" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
     <h2>Highlighted Repositories</h2>
     <ul>
         <li>
