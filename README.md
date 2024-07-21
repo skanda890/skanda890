@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-     <body>
+    <title>About My GitHub Profile</title>
+<body>
     <h1>About My GitHub Profile</h1>
     <p>This summary provides an overview of the projects and contributions made by the GitHub user <em>skanda890</em>. The account showcases a variety of projects, indicating a focus on software development and user interface design, particularly for Windows systems.</p>
     <h2>Highlighted Repositories</h2>
@@ -19,22 +19,17 @@
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/Dev-Home">Dev-Home</a></h3>
-            <p>A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the development environment for the user.</p>
+            <p>A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the user's development environment.</p>
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/skanda890">skanda890</a></h3>
-            <p>This repository contains code for Skanda890's Github profile.</p>
-         </li>
+            <p>This repository contains code for Skanda890's GitHub profile.</p>
+        </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
-    <li>
-    <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
-    <p>
-    He focuses on software development and UI design for Windows. Details about the 'Hackbook' repository are not available. More information can be found on the GitHub page of <a href="https://github.com/skanda890"> skanda890<a>.
-    </p>
-    </li>
-    
-<p><a href="github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
-<p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p></p>
+        <li>
+    </ul>
+    <p><a href="https://github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
+    <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
 </body>
 </html>
