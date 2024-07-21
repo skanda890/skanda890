@@ -3,11 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-     <body>
+    <title>About My GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #fff;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
     <h1>About My GitHub Profile</h1>
     <p>This summary provides an overview of the projects and contributions made by the GitHub user <em>skanda890</em>. The account showcases a variety of projects, indicating a focus on software development and user interface design, particularly for Windows systems.</p>
-  <iframe src="https://github.com/skanda890" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://github.com/skanda890" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
     <h2>Highlighted Repositories</h2>
     <ul>
         <li>
@@ -24,18 +55,14 @@
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/skanda890">skanda890</a></h3>
-            <p>This repository contains code for Skanda890's Github profile.</p>
-         </li>
-        <!-- Placeholder for additional repositories -->
-        <!-- Add more <li> elements here with other repositories -->
-    <li>
-    <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
-    <p>
-    He focuses on software development and UI design for Windows. Details about the 'Hackbook' repository are not available. More information can be found on the GitHub page of <a href="https://github.com/skanda890"> skanda890<a>.
-    </p>
-    </li>
-    
-<p><a href="github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
-<p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p></p>
+            <p>This repository contains code for Skanda890's GitHub profile.</p>
+        </li>
+        <li>
+            <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
+            <p>He focuses on software development and UI design for Windows. Details about the 'Hackbook' repository are not available. More information can be found on the GitHub page of <a href="https://github.com/skanda890">skanda890</a>.</p>
+        </li>
+    </ul>
+    <p><a href="https://github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
+    <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
 </body>
 </html>
