@@ -20,7 +20,7 @@
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/Dev-Home">Dev-Home</a></h3>
-            <p>A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the development environment for the user.</p>
+            <p>A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the user's development environment.</p>
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/skanda890">skanda890</a></h3>
