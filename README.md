@@ -25,10 +25,9 @@
             <h3><a href="https://github.com/skanda890/skanda890">skanda890</a></h3>
             <p>This repository contains code for Skanda890's GitHub profile.</p>
         </li>
+        <!-- Placeholder for additional repositories -->
+        <!-- Add more <li> elements here with other repositories -->
         <li>
-            <h3><a href="https://github.com/skanda890/Hackbook">Hackbook</a></h3>
-            <p>He focuses on software development and UI design for Windows. Details about the 'Hackbook' repository are not available. More information can be found on the GitHub page of <a href="https://github.com/skanda890">skanda890</a>.</p>
-        </li>
     </ul>
     <p><a href="https://github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
     <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
