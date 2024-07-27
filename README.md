@@ -13,10 +13,6 @@
             <p>A project aimed at creating an intuitive GUI for common CLI package managers on Windows 10 and 11. It supports package managers like Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool, and PowerShell Gallery. The goal is to make package management more accessible to users who prefer graphical interfaces over command-line interactions.</p>
         </li>
         <li>
-            <h3><a href="https://github.com/skanda890/CodePark">CodePark</a></h3>
-            <p>Described as a personal repository, CodePark contains machine languages respective to the branches.</p>
-        </li>
-        <li>
             <h3><a href="https://github.com/skanda890/Dev-Home">Dev-Home</a></h3>
             <p>A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the user's development environment.</p>
         </li>
