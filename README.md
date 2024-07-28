@@ -26,7 +26,6 @@
         </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
-        <li>
     </ul>
     <p><a href="https://github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
     <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
