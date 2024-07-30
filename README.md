@@ -20,7 +20,7 @@
         <!-- Add more <li> elements here with other repositories -->
     </ul>
     <p><a href="https://github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
-  <p>Overall, <a href="https://github.com/skanda890">skanda890</a>'s GitHub profile reflects their passion for coding and creating user-friendly software.</p>
+  <p>Overall, <a href="https://github.com/skanda890">skanda890</a>'s gitHub profile reflects their passion for coding and creating user-friendly software.</p>
     <p>I have another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
 </body>
 </html>
