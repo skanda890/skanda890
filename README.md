@@ -14,7 +14,7 @@
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/CodePark">CodePark</a></h3>
-            <p>Described as a personal repository, CodePark contains machine languages respective to the branches.</p>
+            <p>CodePark contains machine languages that are respective to the branches.</p>
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/Dev-Home">Dev-Home</a></h3>
@@ -29,6 +29,6 @@
     </ul>
     <p><a href="https://github.com/skanda890">skanda890 (Skanda BT)</a> has many repositories available on GitHub, showcasing a diverse range of projects and interests in software development.</p>
   <p>Overall, <a href="https://github.com/skanda890">skanda890's GitHub profile</a> reflects their passion for coding and creating user-friendly software.</p>
-    <p>He has another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
+    <p>I have another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
 </body>
 </html>
