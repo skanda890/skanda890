@@ -3,33 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skanda BT (skanda890)</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #666;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -43,6 +16,7 @@
         <h2>Projects I'm Proud Of</h2>
         <ul>
             <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>:This repository contains code and beautiful README files for Skanda890's GitHub profile.</li>
+           <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>:CodePark contains machine languages that are respective to the branches.</p>
         </ul>
         <h2>Connect with Me</h2>
         <ul>
