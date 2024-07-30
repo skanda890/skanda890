@@ -17,7 +17,7 @@
         <ul>
            <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: This repository contains code and beautiful README files for Skanda890's GitHub profile.</li>
            <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: CodePark contains machine languages that are respective to the branches.</p></li>
-           <li><strong> <a href="https://github.com/skanda890/Azure-Pipelines-Tasks">Azure-Pipelines-Tasks</a></strong>: It is a GitHub repository that contains a collection of tasks designed for use with Azure Pipelines and Team Foundation Server (TFS).  
+           <li><strong><a href="https://github.com/skanda890/Azure-Pipelines-Tasks">Azure-Pipelines-Tasks</a></strong>: It is a GitHub repository that contains a collection of tasks designed for use with Azure Pipelines and Team Foundation Server (TFS).  
           <!-- Placeholder for additional repositories -->
           <!-- Add more <li> elements here with other repositories -->
         </ul>
