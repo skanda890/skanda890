@@ -14,7 +14,7 @@
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/skanda890">skanda890</a></h3>
-            <p>This repository contains code and beautiful README files for Skanda890's GitHub profile.</p>
+            <p>This repository contains code and beautiful README files for my GitHub profile.</p>
         </li>
         <!-- Placeholder for additional repositories -->
         <!-- Add more <li> elements here with other repositories -->
