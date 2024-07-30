@@ -17,6 +17,8 @@
         <ul>
             <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>:This repository contains code and beautiful README files for Skanda890's GitHub profile.</li>
            <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>:CodePark contains machine languages that are respective to the branches.</p>
+          <!-- Placeholder for additional repositories -->
+          <!-- Add more <li> elements here with other repositories -->
         </ul>
         <h2>Connect with Me</h2>
         <ul>
