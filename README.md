@@ -42,8 +42,6 @@
         </ul>
         <h2>Projects I'm Proud Of</h2>
         <ul>
-            <li><strong><a href="https://github.com/skanda890/UniGetUI">UniGetUI</a></strong>: A project aimed at creating an intuitive GUI for common CLI package managers on Windows 10 and 11.</li>
-            <li><strong><a href="https://github.com/skanda890/Dev-Home">Dev-Home</a></strong>: My cozy corner where I tweak settings, add custom scripts, and enhance my development environment.</li>
             <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>:This repository contains code and beautiful README files for Skanda890's GitHub profile.</li>
         </ul>
         <h2>Connect with Me</h2>
