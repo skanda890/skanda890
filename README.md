@@ -9,12 +9,8 @@
     <h2>Highlighted Repositories</h2>
     <ul>
         <li>
-        </li>
-        <li>
             <h3><a href="https://github.com/skanda890/CodePark">CodePark</a></h3>
             <p>CodePark contains machine languages that are respective to the branches.</p>
-        </li>
-        <li>
         </li>
         <li>
             <h3><a href="https://github.com/skanda890/skanda890">skanda890</a></h3>
