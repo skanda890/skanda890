@@ -22,7 +22,12 @@
           <!-- Placeholder for additional repositories -->
           <!-- Add more <li> elements here with other repositories -->
         </ul>
-        <h2>Connect with Me</h2>
+       <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+        <img alt="github-snake" src="github-snake.svg" />
+       </picture>    
+    <h2>Connect with Me</h2>
         <ul>
             <li>🐦 Follow me on <a href="https://x.com/SkandaBT2015">Twitter</a>, <a href="https://www.instagram.com/skandabt/">Instagram</a>.</li>
         </ul>
