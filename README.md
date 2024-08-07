@@ -21,13 +21,7 @@
            <li><strong><a href="https://github.com/skanda890/Azure-Pipelines-Tasks">Azure-Pipelines-Tasks</a></strong>: It is a GitHub repository that contains a collection of tasks designed for use with Azure Pipelines and Team Foundation Server (TFS).  
           <!-- Placeholder for additional repositories -->
           <!-- Add more <li> elements here with other repositories -->
-        </ul>
-<picture>
-  <!-- Source for dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <!-- Fallback image -->
-  <img alt="GitHub Snake" src="github-snake.svg" />
-</picture>  
+        </ul>  
     <h2>Connect with Me</h2>
         <ul>
             <li>🐦 Follow me on <a href="https://x.com/SkandaBT2015">Twitter</a>, <a href="https://www.instagram.com/skandabt/">Instagram</a>.</li>
