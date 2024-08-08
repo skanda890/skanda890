@@ -12,15 +12,15 @@
         <ul>
             <li>💻 Currently working on projects that blend functionality with aesthetics.</li>
             <li>🌟 Passionate about software development, UI/UX design, and making tech accessible to everyone.</li>
-            ## GitHub Snake Game
+            <h2>GitHub Snake Game</h2>
+        </ul>
         <picture>
   <!-- Source for dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://example.com/github-snake-dark.svg" />
   <!-- Fallback image -->
   <img alt="GitHub Snake" src="https://example.com/github-snake.svg" />
         </picture>
-        </ul>
-        <h2>Projects I'm Proud Of</h2>
+        <h3>Projects I'm Proud Of</h3>
         <ul>
            <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: This repository contains code and beautiful README files for Skanda890's GitHub profile.</li>
            <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: CodePark contains machine languages that are respective to the branches.</p></li>
@@ -31,6 +31,7 @@
     <h2>Connect with Me</h2>
         <ul>
             <li>🐦 Follow me on <a href="https://x.com/SkandaBT2015">Twitter</a>, <a href="https://www.instagram.com/skandabt/">Instagram</a>.</li>
+            <li>Contact me at <a href="https://matrix.to/#/@skanda890:gitter.im">Gitter</a></li>
         </ul>
         <h3>Conclusion</h3>
        <p>I have many repositories available on GitHub, all showcasing a diverse range of projects and interests in software development.</p>
