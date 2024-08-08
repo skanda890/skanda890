@@ -14,15 +14,6 @@
             <li>🌟 Passionate about software development, UI/UX design, and making tech accessible to everyone.</li>
             <li>🌱 Always learning and exploring new technologies to improve my skills.</li>
         </ul>
-        <h2>GitHub Snake Game</h2>
-        <picture>
-            <!-- Source for dark mode -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://example.com/github-snake-dark.svg" />
-            <!-- Source for light mode -->
-            <source media="(prefers-color-scheme: light)" srcset="https://example.com/github-snake.svg" />
-            <!-- Fallback image -->
-            <img alt="GitHub Snake" src="https://example.com/github-snake.svg" />
-        </picture>
         <h2>Projects I'm Proud Of</h2>
         <ul>
             <li><strong><a href="https://github.com/skanda890/UnigetUI">UnigetUI</a></strong>: A project aimed at creating an intuitive GUI for common CLI package managers on Windows 10 and 11. It supports package managers like Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool, and PowerShell Gallery. The goal is to make package management more accessible to users who prefer graphical interfaces over command-line interactions.</li>
