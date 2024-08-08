@@ -21,7 +21,7 @@
             <li><strong><a href="https://github.com/skanda890/Dev-Home">Dev-Home</a></strong>: A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the development environment for the user.</li>
             <li><strong><a href="https://github.com/skanda890/Hackbook">Hackbook</a></strong>: Focused on software development and UI design for Windows.</li>
         </ul>
-        h2>Contributions</h2>
+        <h2>Contributions</h2>
         <p>I actively contribute to open-source projects and enjoy collaborating with other developers. Check out my repositories and feel free to reach out if you'd like to collaborate!</p>
         <h2>Connect with Me</h2>
         <ul>
