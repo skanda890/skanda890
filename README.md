@@ -13,7 +13,6 @@
             <li>💻 Currently working on projects that blend functionality with aesthetics.</li>
             <li>🌟 Passionate about software development, UI/UX design, and making tech accessible to everyone.</li>
         </ul>
-        
         <h2>GitHub Snake Game</h2>
         <picture>
             <!-- Source for dark mode -->
@@ -23,7 +22,6 @@
             <!-- Fallback image -->
             <img alt="GitHub Snake" src="https://example.com/github-snake.svg" />
         </picture>
-        
         <h3>Projects I'm Proud Of</h3>
         <ul>
             <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: This repository contains code and beautiful README files for Skanda890's GitHub profile.</li>
@@ -32,14 +30,12 @@
             <!-- Placeholder for additional repositories -->
             <!-- Add more <li> elements here with other repositories -->
         </ul>
-        
-        <h2>Connect with Me</h2>
+        <h3>Connect with Me</h3>
         <ul>
             <li>🐦 Follow me on <a href="https://x.com/SkandaBT2015">Twitter</a> and <a href="https://www.instagram.com/skandabt/">Instagram</a>.</li>
             <li>Contact me at <a href="https://matrix.to/#/@skanda890:gitter.im">Gitter</a>.</li>
         </ul>
-        
-        <h3>Conclusion</h3>
+        <h4>Conclusion</h4>
         <p>I have many repositories available on GitHub, all showcasing a diverse range of projects and interests in software development.</p>
         <p>Overall, my GitHub profile reflects my passion for coding and creating user-friendly software.</p>
         <p>I have another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
