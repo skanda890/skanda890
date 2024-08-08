@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +12,13 @@
         <ul>
             <li>💻 Currently working on projects that blend functionality with aesthetics.</li>
             <li>🌟 Passionate about software development, UI/UX design, and making tech accessible to everyone.</li>
+            ## GitHub Snake Game
+        <picture>
+  <!-- Source for dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://example.com/github-snake-dark.svg" />
+  <!-- Fallback image -->
+  <img alt="GitHub Snake" src="https://example.com/github-snake.svg" />
+        </picture>
         </ul>
         <h2>Projects I'm Proud Of</h2>
         <ul>
