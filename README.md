@@ -35,7 +35,7 @@
             <li>🐦 Follow me on <a href="https://x.com/SkandaBT2015">Twitter</a> and <a href="https://www.instagram.com/skandabt/">Instagram</a>.</li>
             <li>Contact me at <a href="https://matrix.to/#/@skanda890:gitter.im">Gitter</a>.</li>
         </ul>
-        <h4>Conclusion</h4>
+        <h3>Conclusion</h3>
         <p>I have many repositories available on GitHub, all showcasing a diverse range of projects and interests in software development.</p>
         <p>Overall, my GitHub profile reflects my passion for coding and creating user-friendly software.</p>
         <p>I have another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
