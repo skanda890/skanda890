@@ -16,9 +16,8 @@
         </ul>
         <h2>Projects I'm Proud Of</h2>
         <ul>
-            <li><strong><a href="https://github.com/skanda890/UnigetUI">UnigetUI</a></strong>: A project aimed at creating an intuitive GUI for common CLI package managers on Windows 10 and 11. It supports package managers like Winget, Scoop, Chocolatey, Pip, Npm, .NET Tool, and PowerShell Gallery. The goal is to make package management more accessible to users who prefer graphical interfaces over command-line interactions.</li>
+            <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Config files for my GitHub profile.
             <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches.</li>
-            <li><strong><a href="https://github.com/skanda890/Dev-Home">Dev-Home</a></strong>: A forked repository from Microsoft, possibly containing customizations or personal configurations. It may include settings or scripts that enhance the development environment for the user.</li>
             <li><strong><a href="https://github.com/skanda890/Hackbook">Hackbook</a></strong>: Focused on software development and UI design for Windows.</li>
         </ul>
         <h2>Contributions</h2>
