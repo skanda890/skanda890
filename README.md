@@ -19,6 +19,7 @@
             <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Config files for my GitHub profile.
             <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches.</li>
             <li><strong><a href="https://github.com/skanda890/Hackbook">Hackbook</a></strong>: Focused on software development and UI design for Windows.</li>
+            <li><strong><a href="https://github.com/skanda890/Azure-Pipelines-Tasks">Azure-Pipelines-Tasks</a></strong>: It is a GitHub repository that contains a collection of tasks designed for use with Azure Pipelines and Team Foundation Server (TFS).
         </ul>
         <h2>Contributions</h2>
         <p>I actively contribute to open-source projects and enjoy collaborating with other developers. Check out my repositories and feel free to reach out if you'd like to collaborate!</p>
