@@ -16,7 +16,7 @@
         </ul>
         <h2>Projects I'm Proud Of</h2>
         <ul>
-            <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Config files for my GitHub profile.
+            <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Configuration files and two beautiful README files for my GitHub profile.
             <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches.</li>
             <li><strong><a href="https://github.com/skanda890/Hackbook">Hackbook</a></strong>: An Application for Tamil Nadu Police Cyber Cell Department according to their problem statement.</li>
         </ul>
