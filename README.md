@@ -18,7 +18,7 @@
         <ul>
             <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Config files for my GitHub profile.
             <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches.</li>
-            <li><strong><a href="https://github.com/skanda890/Hackbook">Hackbook</a></strong>: Focused on software development and UI design for Windows.</li>
+            <li><strong><a href="https://github.com/skanda890/Hackbook">Hackbook</a></strong>: An Application for Tamil Nadu Police Cyber Cell Department according to their problem statement.</li>
         </ul>
         <h2>Contributions</h2>
         <p>I actively contribute to open-source projects and enjoy collaborating with other developers. Check out my repositories and feel free to reach out if you'd like to collaborate!</p>
