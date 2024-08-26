@@ -13,10 +13,6 @@
     <p>
         A personal repository where skanda890 manages their code. Watch out for bugs!
     </p>
-    <div class="repo"><a href="https://github.com/skanda890/UniGetUI">UniGetUI</a></div>
-    <p>
-        Skanda is on a mission to create an intuitive GUI for common CLI package managers. Can you help?
-    </p>
     <div class="repo"><a href="https://github.com/skanda890/CodePark">CodePark</a></div>
     <p>
         This repository serves as a test playground. It’s a place where experiments, code snippets, and ideas can be explored.
