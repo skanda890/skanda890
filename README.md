@@ -18,7 +18,6 @@
         <ul>
         <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Configuration files and two beautiful README files for my GitHub profile.</li>
         <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches.</li>
-        <li><strong><a href="https://github.com/skanda890/UniGetUI">UniGetUI</a></strong>: A better UI for your package managers.</li>
         <li><strong><a href="https://github.com/skanda890/Web-RTC-Chat">Web-RTC-Chat</a></strong>: A real-time chat application using WebRTC technology.</li>
         <li><strong><a href="https://github.com/skanda890/Network-Messenger">Network-Messenger</a></strong>: A project to send messages to all devices connected to the same local network.</li>
         <li><strong><a href="https://github.com/skanda890/Wake-Network">Wake-Network</a></strong>: A project designed to wake all devices on your local network using Wake-on-LAN technology.</li>
