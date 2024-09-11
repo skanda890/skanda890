@@ -18,10 +18,6 @@
 <ul>
     <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Configuration files and two beautiful README files for my GitHub profile.</li>
     <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches.</li>
-    <li><strong><a href="https://github.com/skanda890/Web-RTC-Chat">Web-RTC-Chat</a></strong>: A real-time chat application using WebRTC technology.</li>
-    <li><strong><a href="https://github.com/skanda890/Network-Messenger">Network-Messenger</a></strong>: A project to send messages to all devices connected to the same local network.</li>
-    <li><strong><a href="https://github.com/skanda890/Wake-Network">Wake-Network</a></strong>: A project designed to wake all devices on your local network using Wake-on-LAN technology.</li>
-    <li><strong><a href="https://github.com/skanda890/Code-Compiler">Code-Compiler</a></strong>: A web application that allows users to write and compile code in multiple programming languages, including JavaScript, Python, Java, C, C++, and HTML.</li>
 </ul>
         <h2>Contributions</h2>
         <p>I actively contribute to open-source projects and enjoy collaborating with other developers. Check out my repositories and feel free to reach out if you'd like to collaborate!</p>
