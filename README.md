@@ -27,7 +27,7 @@
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=skanda890&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
         <h2>Connect with Me</h2>
         <ul>
-            <li>🐦 Follow me on <a href="https://x.com/SkandaBT2015">Twitter</a> and <a href="https://www.instagram.com/skandabt/">Instagram</a>.</li>
+            <li>🐦 Follow me on <a href="https://x.com/SkandaBT2015">X</a> and <a href="https://www.instagram.com/skandabt/">Instagram</a>.</li>
             <li>📧 Contact me on <a href="https://matrix.to/#/@skanda890:gitter.im">Gitter</a>.</li>
         </ul>
         <h2>Conclusion</h2>
