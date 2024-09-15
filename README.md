@@ -21,15 +21,15 @@
 </ul>
         <h2>My GitHub Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=skanda890" alt="GitHub Stats">
+        <h2>My GitHub Trophies</h2>
+        <img src="https://github-profile-trophy.vercel.app/?username=skanda890" alt="GitHub Profile Trophy">
+        <h2>GitHub Streak Stats</h2>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=skanda890&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
         <h2>Connect with Me</h2>
         <ul>
             <li>🐦 Follow me on <a href="https://x.com/SkandaBT2015">Twitter</a> and <a href="https://www.instagram.com/skandabt/">Instagram</a>.</li>
             <li>📧 Contact me on <a href="https://matrix.to/#/@skanda890:gitter.im">Gitter</a>.</li>
         </ul>
-        <h2>My GitHub Trophies</h2>
-        <img src="https://github-profile-trophy.vercel.app/?username=skanda890" alt="GitHub Profile Trophy">
-        <h2>GitHub Streak Stats</h2>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=skanda890&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
         <h2>Conclusion</h2>
         <p>I have many repositories available on GitHub, all showcasing a diverse range of projects and interests in software development. My GitHub profile reflects my passion for coding and creating user-friendly software. I have another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
     </div>
