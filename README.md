@@ -17,7 +17,7 @@
         <h2>Projects I'm Proud Of</h2>
 <ul>
     <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Configuration files and two beautiful README files for my GitHub profile.</li>
-    <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches. It is a repository which includes many projects separated by folders. </li>
+    <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches. It is a repository that includes many projects separated by folders. </li>
 </ul>
         <h2>My GitHub Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=skanda890" alt="GitHub Stats">
@@ -28,6 +28,8 @@
         </ul>
         <h2>My GitHub Trophies</h2>
         <img src="https://github-profile-trophy.vercel.app/?username=skanda890" alt="GitHub Profile Trophy">
+        <h2>GitHub Streak Stats</h2>
+        <img src="https://streak-stats.demolab.com/?user=skanda890" alt="GitHub Streak Stats">
         <h2>Conclusion</h2>
         <p>I have many repositories available on GitHub, all showcasing a diverse range of projects and interests in software development. My GitHub profile reflects my passion for coding and creating user-friendly software. I have another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
     </div>
