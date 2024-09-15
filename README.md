@@ -19,7 +19,7 @@
     <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Configuration files and two beautiful README files for my GitHub profile.</li>
     <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches.</li>
 </ul>
-        <h2>Contributions</h2>
+        <h2>My GitHub Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=skanda890" alt="GitHub Stats">
         <h2>Connect with Me</h2>
         <ul>
