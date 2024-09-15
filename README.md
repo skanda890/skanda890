@@ -29,7 +29,7 @@
         <h2>My GitHub Trophies</h2>
         <img src="https://github-profile-trophy.vercel.app/?username=skanda890" alt="GitHub Profile Trophy">
         <h2>GitHub Streak Stats</h2>
-        <img src="https://streak-stats.demolab.com/?user=skanda890" alt="GitHub Streak Stats">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=skanda890&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
         <h2>Conclusion</h2>
         <p>I have many repositories available on GitHub, all showcasing a diverse range of projects and interests in software development. My GitHub profile reflects my passion for coding and creating user-friendly software. I have another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
     </div>
