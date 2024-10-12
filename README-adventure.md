@@ -17,18 +17,6 @@
     <p>
         This repository serves as a test playground. It’s a place where experiments, code snippets, and ideas can be explored.
     </p>
-    <div class="repo"><a href="https://github.com/skanda890/Web-RTC-Chat">Web-RTC-Chat</a></div>
-    <p>
-        A real-time chat application using WebRTC technology.
-    </p>
-    <div class="repo"><a href="https://github.com/skanda890/Network-Messenger">Network-Messenger</a></div>
-    <p>
-        A project to send messages to all devices connected to the same local network.
-    </p>
-    <div class="repo"><a href="https://github.com/skanda890/Wake-Network">Wake-Network</a></div>
-    <p>
-        A project designed to wake all devices on your local network using Wake-on-LAN technology.
-    </p>
     <p>
         Keep <a href="https://github.com/skanda890">skanda890's</a> adventure going by exploring their GitHub profile.
     </p>
