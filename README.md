@@ -33,7 +33,7 @@
             <li>📧 Contact me on <a href="https://matrix.to/#/@skanda890:gitter.im">Gitter</a>.</li>
         </ul>
         <h2>Conclusion</h2>
-        <p>I have many repositories available on GitHub, all showcasing a diverse range of projects and interests in software development. My GitHub profile reflects my passion for coding and creating user-friendly software. I have another <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README</a> file, go check that out now.</p>
-    </div>
+<p>My GitHub profile showcases a diverse range of projects and interests in software development, reflecting my passion for coding and creating user-friendly software. Check out my <a href="https://github.com/skanda890/skanda890/blob/HTML/README-adventure.md">README adventure file</a> for an exciting representation of my journey. Additionally, see my <a href="https://github.com/skanda890/skanda890/blob/HTML/README-fake.md">README stats file</a> for the goals I'm striving to achieve.</p>
+</div>
 </body>
 </html>
