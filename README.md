@@ -20,8 +20,7 @@
     <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: Described as a personal repository, CodePark contains machine languages respective to the branches. It is a repository that includes many projects separated by folders. </li>
 </ul>
         <h2>My GitHub Stats</h2>
-        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vue-dark&preferLogin=false">    
-        <img  alt="skanda890's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/skanda890?cardType=level&theme=vue-dark&preferLogin=false" />  </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=skanda890" alt="GitHub Stats">
         <h2>My GitHub Trophies</h2>
         <img src="https://github-profile-trophy.vercel.app/?username=skanda890" alt="GitHub Profile Trophy">
         <h2>GitHub Streak Stats</h2>
