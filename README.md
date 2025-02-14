@@ -23,8 +23,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=skanda890" alt="GitHub Stats">
         <h2>My GitHub Trophies</h2>
         <img src="https://github-profile-trophy.vercel.app/?username=skanda890" alt="GitHub Profile Trophy">
-        <h2>GitHub Streak Stats</h2>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=skanda890&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
         <h2>Most Used Languages</h2>
         <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=skanda890&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
         <h2>Connect with Me</h2>
