@@ -18,10 +18,6 @@
 <ul>
     <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: It is a repository that includes many projects separated by folders.</li>
 </ul>
-        <h2>My GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=skanda890" alt="GitHub Stats">
-        <h2>My GitHub Trophies</h2>
-        <img src="https://github-profile-trophy.vercel.app/?username=skanda890" alt="GitHub Profile Trophy">
         <h2>Most Used Languages</h2>
         <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=skanda890&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
         <h2>Connect with Me</h2>
