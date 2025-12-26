@@ -14,10 +14,9 @@
             <li>🌟 Passionate about software development, UI/UX design, and making tech accessible to everyone.</li>
             <li>🌱 Always learning and exploring new technologies to improve my skills.</li>
         </ul>
-        <h2>Projects I'm Proud Of</h2>
+        <h2>A Project I'm Proud Of</h2>
 <ul>
-    <li><strong><a href="https://github.com/skanda890/skanda890">skanda890</a></strong>: Configuration files and two beautiful README files for my GitHub profile.</li>
-    <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: CodePark contains machine languages respective to the branches. It is a repository that includes many projects separated by folders.</li>
+    <li><strong><a href="https://github.com/skanda890/CodePark">CodePark</a></strong>: It is a repository that includes many projects separated by folders.</li>
 </ul>
         <h2>My GitHub Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=skanda890" alt="GitHub Stats">
